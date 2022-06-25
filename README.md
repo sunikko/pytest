@@ -1,6 +1,11 @@
 # pytest
+'''
 pipenv --three
-pipenv shell
 
+pipenv shell
+'''
+'''
 pipenv install pytest
+
 pytest --version
+'''
